@@ -1,4 +1,4 @@
-package com.user.micro.service;
+package com.user.micro.service.otpvalidator;
 
 import java.security.SecureRandom;
 
