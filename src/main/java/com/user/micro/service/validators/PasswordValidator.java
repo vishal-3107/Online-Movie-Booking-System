@@ -1,6 +1,6 @@
 package com.user.micro.service.validators;
 
-import com.user.micro.service.UserDetailsDto;
+import com.user.micro.service.Dto.UserDetailsDto;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 
