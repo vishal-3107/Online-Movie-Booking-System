@@ -1,5 +1,6 @@
-package com.user.micro.service;
+package com.user.micro.service.Dto;
 
+import com.user.micro.service.Entity.UserDetails;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Component;
 

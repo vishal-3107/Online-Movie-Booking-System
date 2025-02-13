@@ -1,5 +1,8 @@
-package com.user.micro.service;
+package com.user.micro.service.Service;
 
+import com.user.micro.service.Repository.UserDao;
+import com.user.micro.service.Dto.UserDetailsDto;
+import com.user.micro.service.Dto.UserMapper;
 import com.user.micro.service.otpvalidator.OtpService;
 import com.user.micro.service.otpvalidator.OtpValidationRequest;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,7 +10,6 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
 
 import java.util.Objects;
-import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 @Service

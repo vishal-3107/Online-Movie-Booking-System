@@ -1,4 +1,4 @@
-package com.user.micro.service;
+package com.user.micro.service.Entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

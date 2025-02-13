@@ -1,4 +1,4 @@
-package com.user.micro.service;
+package com.user.micro.service.Dto;
 
 import com.user.micro.service.validators.ValidatePassword;
 import jakarta.validation.constraints.Email;

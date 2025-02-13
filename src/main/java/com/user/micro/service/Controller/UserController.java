@@ -1,5 +1,7 @@
-package com.user.micro.service;
+package com.user.micro.service.Controller;
 
+import com.user.micro.service.Service.UserService;
+import com.user.micro.service.Dto.UserDetailsDto;
 import com.user.micro.service.otpvalidator.OtpValidationRequest;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.PostMapping;

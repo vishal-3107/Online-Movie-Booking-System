@@ -1,6 +1,6 @@
 package com.user.micro.service.otpvalidator;
 
-import com.user.micro.service.UserDetailsDto;
+import com.user.micro.service.Dto.UserDetailsDto;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;

@@ -1,4 +1,4 @@
-package com.user.micro.service;
+package com.user.micro.service.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
